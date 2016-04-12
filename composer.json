@@ -1,0 +1,9 @@
+{
+    "name": "mrtsites/editor",
+    "description": "This extension for the Yii2 framework",
+    "type": "yii2-extension",
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "2.*"
+    }
+}
